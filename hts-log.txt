@@ -1,0 +1,38 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 18 Mar 2025 23:40:04 at https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA== +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA== -O1 "C:\My Web Sites\ghh" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:40:14	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link ./assets/favicon.png (from https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA==)
+23:40:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./assets/banner2.png (from https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA==)
+23:40:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./material-icons.css (from https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA==)
+23:40:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./assets/styles.d9a92685a7b2d205a93d.css (from https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA==)
+23:40:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./assets/footer-logo-sprite-3.150ba99c6fa2a0b159c8.png (from https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA==)
+23:40:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./assets/crs-logo.png (from https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA==)
+23:40:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./assets/emblem.png (from https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA==)
+23:40:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./assets/crs-logo-light.png (from https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA==)
+23:40:14	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./assets/azadi_logo_light-min.png (from https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA==)
+23:40:15	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./assets/favicon.png (from https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA==)
+23:40:15	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./assets/banner2.png (from https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA==)
+23:40:15	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./material-icons.css (from https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA==)
+23:40:15	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./assets/styles.d9a92685a7b2d205a93d.css (from https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA==)
+23:40:15	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./assets/footer-logo-sprite-3.150ba99c6fa2a0b159c8.png (from https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA==)
+23:40:15	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./assets/crs-logo.png (from https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA==)
+23:40:15	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./assets/emblem.png (from https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA==)
+23:40:15	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./assets/crs-logo-light.png (from https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA==)
+23:40:15	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ./assets/azadi_logo_light-min.png (from https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA==)
+23:40:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ./assets/favicon.png (from https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA==)
+23:40:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ./assets/banner2.png (from https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA==)
+23:40:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ./material-icons.css (from https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA==)
+23:40:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ./assets/styles.d9a92685a7b2d205a93d.css (from https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA==)
+23:40:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ./assets/footer-logo-sprite-3.150ba99c6fa2a0b159c8.png (from https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA==)
+23:40:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ./assets/crs-logo.png (from https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA==)
+23:40:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ./assets/emblem.png (from https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA==)
+23:40:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ./assets/crs-logo-light.png (from https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA==)
+23:40:15	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ./assets/azadi_logo_light-min.png (from https://dc.crsorgi.gov.in.web.verfy.in/crs/verifycertificate.php?id=OTI2OA==)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 seconds : 32 links scanned, 4 files written (495911 bytes overall) [108378 bytes received at 10837 bytes/sec], 495911 bytes transferred using HTTP compression in 4 files, ratio 20%, 1.2 requests per connection
+(9 errors, 18 warnings, 0 messages)
